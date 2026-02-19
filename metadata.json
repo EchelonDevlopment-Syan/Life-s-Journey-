@@ -1,0 +1,8 @@
+{
+  "name": "Life's Journey",
+  "description": "The Complete Life Résumé: A premium, interactive platform for users to document and visualize their entire life story within a 3D Virtual Office metaphor.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
